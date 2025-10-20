@@ -1,2 +1,4 @@
-# projet-machine-learning
-Ce repository comprend les projets de machines learnings que je réalise afin de m'entraîner.
+# Projet de Machine Learning
+Comme précisé dans la section "about", j'utilise ce repository github afin de présenter les différents projets de Machine que je réalise afin de m'exercer. Je n'ai pas eu l'opportunité de travailler pour une entreprise, donc réaliser mes propres modèles est un moyen d'apprendre et de progresser dans le domaine du machine learning. Je souhaite surtout améliorer mes compétences en programmation et en statistiques, ainsi que mes connaissances des différents modèles classification ou de régression existents. 
+
+Chaque dossier représentent un base de donnée ou un sujet que j'ai traité au sein de mon modèle. La plupart des bases de données que j'ai utilisé sont issues de [Kaggle](https://www.kaggle.com/) ou de [UCI Machine Learning Repository](https://archive.ics.uci.edu/).
